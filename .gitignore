@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+.env
+android/app/build
+android/app/src/main/assets/public
+android-build.log
+.vite-temp
